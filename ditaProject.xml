@@ -21,7 +21,7 @@
     <context name="ctxt">
       <input href="flowers.ditamap"/>
     </context>
-    <output href="pdf-output"/>
+    <output href="wh-output"/>
     <publication transtype="webhelp-responsive"/>
   </deliverable>
 </project>
