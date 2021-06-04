@@ -24,7 +24,7 @@
     <output href="wh-output"/>
     <publication transtype="webhelp-responsive"/>
   </deliverable>
-  <deliverable name="Flowers to PDF_CSS" id="pdf">
+  <deliverable name="Flowers to PDF_CSS" id="pdfcss">
     <context name="">
       <input href="summerFlowers.ditamap"/>
     </context>
