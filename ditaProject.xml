@@ -17,18 +17,4 @@
     <output href="pdf-output"/>
     <publication transtype="pdf"/>
   </deliverable>
-  <deliverable name="User's Guide to webhelp" id="webhelp">
-    <context name="ctxt">
-      <input href="flowers.ditamap"/>
-    </context>
-    <output href="wh-output"/>
-    <publication transtype="webhelp-responsive"/>
-  </deliverable>
-  <deliverable name="Flowers to PDF_CSS" id="pdfcss">
-    <context name="">
-      <input href="summerFlowers.ditamap"/>
-    </context>
-    <output href="pdf-css-flowers-output"/>
-    <publication transtype="pdf-css-html5"/>
-  </deliverable>
 </project>
