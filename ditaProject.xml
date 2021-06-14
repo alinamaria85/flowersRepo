@@ -15,6 +15,6 @@
       <input href="flowers.ditamap"/>
     </context>
     <output href="pdf-output"/>
-    <publication transtype="pdf"/>
+    <publication transtype="pdf-css-html5"/>
   </deliverable>
 </project>
