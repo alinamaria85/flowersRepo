@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="https://www.dita-ot.org/project">
-  <deliverable name="User's Guide to HTML5" id="html5">
+  <deliverable name="User's Guide to Webhelp" id="webhelp">
     <context name="ctxt">
       <input href="flowers.ditamap"/>
     </context>
-    <output href="html5-output"/>
-    <publication transtype="html5">
+    <output href="webhelp-output"/>
+    <publication transtype="webhelp-responsive">
       <param name="args.css" href="path/to/custom.css"/>
       <param name="args.copycss" value="yes"/>
     </publication>
   </deliverable>
-  <deliverable name="User's Guide to PDF" id="pdf">
+  <deliverable name="User's Guide to PDF" id="pdf-css">
     <context name="ctxt">
       <input href="flowers.ditamap"/>
     </context>
