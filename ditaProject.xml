@@ -10,7 +10,7 @@
       <param name="args.copycss" value="yes"/>
     </publication>
   </deliverable>
-  <deliverable name="User's Guide to PDF" id="pdf-css">
+  <deliverable name="User's Guide to PDF" id="pdf">
     <context name="ctxt">
       <input href="flowers.ditamap"/>
     </context>
