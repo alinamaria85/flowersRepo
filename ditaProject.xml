@@ -15,9 +15,4 @@
     <output href="pdf-output"/>
     <publication idref="pdf"/>
   </deliverable>
-  <deliverable id="4" name="Flowers">
-    <context idref="flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
 </project>
