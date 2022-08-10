@@ -37,4 +37,9 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="Winter_Flower-7" name="Winter_Flower">
+    <context idref="winter_flowers"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
