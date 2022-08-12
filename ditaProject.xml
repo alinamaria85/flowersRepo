@@ -32,4 +32,9 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="SpringFlowers-11" name="SpringFlowers">
+    <context idref="spring_flowers"/>
+    <output href="pdf-output"/>
+    <publication idref="pdf"/>
+  </deliverable>
 </project>
