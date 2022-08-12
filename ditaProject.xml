@@ -37,4 +37,9 @@
     <output href="pdf-output"/>
     <publication idref="pdf"/>
   </deliverable>
+  <deliverable id="test-12" name="test">
+    <context idref="spring_flowers"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
