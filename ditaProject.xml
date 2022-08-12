@@ -42,4 +42,9 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="Summer_Flowers-13" name="Summer Flowers">
+    <context idref="summer_flowers"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
