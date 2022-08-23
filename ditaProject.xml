@@ -42,4 +42,9 @@
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
+  <deliverable id="!@#$%^&amp;amp;*()_+&amp;amp;lt;&amp;amp;gt;?/--14" name="!@#$%^&amp;*()_+&lt;>?/-">
+    <context idref="winter_flowers"/>
+    <output href="webhelp-output"/>
+    <publication idref="webhelp"/>
+  </deliverable>
 </project>
