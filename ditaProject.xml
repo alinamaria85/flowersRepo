@@ -1,55 +1,55 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
-  <context id="flowers" name="All Flowers ctxt">
-    <input href="flowers.ditamap"/>
-  </context>
-  <context id="spring_flowers" name="Spring Flowers ctxt">
-    <input href="spring_flowers.ditamap"/>
-  </context>
-  <context id="summer_flowers" name="Summer Flowers ctxt">
-    <input href="summer_flowers.ditamap"/>
-  </context>
-  <context id="autumn_flowers" name="Autumn Flowers ctxt">
-    <input href="autumn_flowers.ditamap"/>
-  </context>
-  <context id="winter_flowers" name="Winter Flowers ctxt">
-    <input href="winter_flowers.ditamap"/>
-  </context>
-  <publication id="webhelp" transtype="webhelp-responsive"/>
-  <publication id="pdf" transtype="pdf-css-html5"/>
-  <deliverable id="Flowers-3" name="Flowers">
-    <context idref="flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="Winter_flowers-9" name="Winter flowers">
-    <context idref="winter_flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="WinterFlowers-10" name="WinterFlowers">
-    <context idref="winter_flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="SpringFlowers-11" name="SpringFlowers">
-    <context idref="spring_flowers"/>
-    <output href="pdf-output"/>
-    <publication idref="pdf"/>
-  </deliverable>
-  <deliverable id="Summer_Flowers-13" name="Summer Flowers">
-    <context idref="summer_flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="Flowers_deliverable-1" name="Flowers deliverable">
-    <context idref="flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="Flowers_Astatine_Template-15" name="Flowers Astatine Template">
-    <context idref="flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
+    <context id="flowers" name="All Flowers ctxt">
+        <input href="flowers.ditamap"/>
+    </context>
+    <context id="spring_flowers" name="Spring Flowers ctxt">
+        <input href="spring_flowers.ditamap"/>
+    </context>
+    <context id="summer_flowers" name="Summer Flowers ctxt">
+        <input href="summer_flowers.ditamap"/>
+    </context>
+    <context id="autumn_flowers" name="Autumn Flowers ctxt">
+        <input href="autumn_flowers.ditamap"/>
+    </context>
+    <context id="winter_flowers" name="Winter Flowers ctxt">
+        <input href="winter_flowers.ditamap"/>
+    </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="Flowers-3" name="Flowers">
+        <context idref="summer_flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="Winter_flowers-9" name="Winter flowers">
+        <context idref="winter_flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="WinterFlowers-10" name="WinterFlowers">
+        <context idref="winter_flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="SpringFlowers-11" name="SpringFlowers">
+        <context idref="spring_flowers"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Summer_Flowers-13" name="Summer Flowers">
+        <context idref="summer_flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="Flowers_deliverable-1" name="Flowers deliverable">
+        <context idref="flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="Flowers_Astatine_Template-15" name="Flowers Astatine Template">
+        <context idref="flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
