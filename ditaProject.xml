@@ -17,27 +17,27 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Flowers-3" name="Flowers">
+    <deliverable id="Flowers-2" name="Flowers">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Winter_flowers-9" name="Winter flowers">
+    <deliverable id="Winter_flowers-3" name="Winter flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="WinterFlowers-10" name="WinterFlowers">
+    <deliverable id="WinterFlowers-4" name="WinterFlowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="SpringFlowers-11" name="SpringFlowers">
+    <deliverable id="SpringFlowers-5" name="SpringFlowers">
         <context idref="spring_flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Summer_Flowers-13" name="Summer Flowers">
+    <deliverable id="Summer_Flowers-6" name="Summer Flowers">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
@@ -47,7 +47,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_Astatine_Template-15" name="Flowers Astatine Template">
+    <deliverable id="Flowers_Astatine_Template-7" name="Flowers Astatine Template">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
