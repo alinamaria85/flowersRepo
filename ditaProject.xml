@@ -17,32 +17,32 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Flowers-41" name="Flowers">
+    <deliverable id="Flowers-84" name="Flowers">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Winter_flowers-42" name="Winter flowers">
+    <deliverable id="Winter_flowers-85" name="Winter flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="WinterFlowers-43" name="WinterFlowers">
+    <deliverable id="WinterFlowers-86" name="WinterFlowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="SpringFlowers-44" name="SpringFlowers">
+    <deliverable id="SpringFlowers-87" name="SpringFlowers">
         <context idref="spring_flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Summer_Flowers-45" name="Summer Flowers">
+    <deliverable id="Summer_Flowers-88" name="Summer Flowers">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-46" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-89" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
