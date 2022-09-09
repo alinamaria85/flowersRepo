@@ -27,7 +27,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="WinterFlowers-98" name="WinterFlowers">
+    <deliverable id="Winter_-_Flowers-98" name="Winter - Flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
