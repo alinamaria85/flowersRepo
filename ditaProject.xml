@@ -17,42 +17,42 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Flowers_Astatine_Template-127" name="Flowers Astatine Template">
+    <deliverable id="Flowers_Astatine_Template-118" name="Flowers Astatine Template">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Winter_flowers-128" name="Winter flowers">
+    <deliverable id="Winter_flowers-119" name="Winter flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Winter_-_Flowers-129" name="Winter - Flowers">
+    <deliverable id="Winter_-_Flowers-120" name="Winter - Flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="SpringFlowers-130" name="SpringFlowers">
+    <deliverable id="SpringFlowers-121" name="SpringFlowers">
         <context idref="spring_flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Summer_Flowers-131" name="Summer Flowers">
+    <deliverable id="Summer_Flowers-122" name="Summer Flowers">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_Repository_Template-132" name="Flowers Repository Template">
+    <deliverable id="Flowers_Repository_Template-123" name="Flowers Repository Template">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Test-133" name="Test">
+    <deliverable id="Test-124" name="Test">
         <context idref="autumn_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-134" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-125" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
