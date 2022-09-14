@@ -42,7 +42,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_Repository_Template-158" name="Flowers Repository Template">
+    <deliverable id="Flowers2_Template-158" name="Flowers2 Template">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
