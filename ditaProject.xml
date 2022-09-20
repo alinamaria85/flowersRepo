@@ -48,7 +48,7 @@
         <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Test-298" name="Test">
-        <context idref="autumn_flowers"/>
+        <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
