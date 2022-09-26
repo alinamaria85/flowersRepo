@@ -67,8 +67,8 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="1-414" name="1">
-        <context idref="flowers"/>
+    <deliverable id="4-414" name="4">
+        <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
