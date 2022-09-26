@@ -18,9 +18,9 @@
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
     <deliverable id="Flowers_Template3-404" name="Flowers Template3">
-        <context idref="spring_flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <context idref="flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Winter_flowers-405" name="Winter flowers">
         <context idref="winter_flowers"/>
