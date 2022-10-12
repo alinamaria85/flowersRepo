@@ -34,8 +34,8 @@
     </deliverable>
     <deliverable id="SpringFlowers-653" name="SpringFlowers">
         <context idref="spring_flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Summer_Flowers-654" name="Summer Flowers">
         <context idref="summer_flowers"/>
