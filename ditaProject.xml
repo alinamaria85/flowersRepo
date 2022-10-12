@@ -17,57 +17,57 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Flowers_Template3-650" name="Flowers Template3">
+    <deliverable id="Flowers_Template3-2" name="Flowers Template3">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Winter_flowers-651" name="Winter flowers">
+    <deliverable id="Winter_flowers-3" name="Winter flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Winter_-_Flowers-652" name="Winter - Flowers">
+    <deliverable id="Winter_-_Flowers-4" name="Winter - Flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="SpringFlowers-653" name="SpringFlowers">
+    <deliverable id="SpringFlowers-5" name="SpringFlowers">
         <context idref="spring_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Summer_Flowers-654" name="Summer Flowers">
+    <deliverable id="Summer_Flowers-6" name="Summer Flowers">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers2_Template-655" name="Flowers2 Template">
+    <deliverable id="Flowers2_Template-7" name="Flowers2 Template">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Test-656" name="Test">
+    <deliverable id="Test-8" name="Test">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-657" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-9" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test13_13_bcp-658" name="test13_13 bcp">
+    <deliverable id="test13_13_bcp-10" name="test13_13 bcp">
         <context idref="spring_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_Test-659" name="Flowers Test">
+    <deliverable id="Flowers_Test-11" name="Flowers Test">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test12-660" name="test12">
+    <deliverable id="test12-12" name="test12">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
