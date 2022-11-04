@@ -57,11 +57,6 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test13_13_bcp-703" name="test13_13 bcp">
-        <context idref="spring_flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="Flowers_Test-704" name="Flowers Test">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
