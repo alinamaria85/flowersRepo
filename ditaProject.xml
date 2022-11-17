@@ -54,8 +54,8 @@
     </deliverable>
     <deliverable id="Flowers_Test-8" name="Flowers Test">
         <context idref="flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="xflower-9" name="xflower">
         <context idref="flowers"/>
