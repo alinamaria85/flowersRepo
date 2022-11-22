@@ -22,11 +22,6 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Winter_Flowers-724" name="Winter Flowers">
-        <context idref="winter_flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="SpringFlowers-725" name="SpringFlowers">
         <context idref="spring_flowers"/>
         <output href="webhelp-output"/>
