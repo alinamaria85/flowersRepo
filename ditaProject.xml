@@ -27,10 +27,10 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="test-1677249238036" name="test">
+    <deliverable id="test-1677249520885" name="test">
         <context idref="flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="abc-1677151755648" name="abc">
         <context idref="summer_flowers"/>
