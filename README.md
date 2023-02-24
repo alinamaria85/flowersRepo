@@ -1,3 +1,3 @@
 # flowersRepo
-Flowers sample
+Flowers sample documentation.
 
