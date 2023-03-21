@@ -27,9 +27,4 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Autumn_deliverable-1679395774297" name="Autumn deliverable">
-        <context idref="autumn_flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
 </project>
