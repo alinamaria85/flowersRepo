@@ -17,11 +17,6 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Flowers-1679324879105" name="Flowers">
-        <context idref="flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="abc-1677151755648" name="abc">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
