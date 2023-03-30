@@ -37,7 +37,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="All_Flowers-1679581051744" name="All Flowers">
+    <deliverable id="All_Flowers_from_all_seasons-1680186446519" name="All Flowers from all seasons">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
