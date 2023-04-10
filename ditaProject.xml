@@ -27,12 +27,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <!--<deliverable id="Winter_Flowers-1679560476547" name="Winter Flowers">
-        <context idref="winter_flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>-->
-    <deliverable id="All_Flowers_from_all_seasons-1680186446519" name="All Flowers from all seasons">
+    <deliverable id="All_Flowers_from_all_seasons-1681122085243" name="All Flowers from all seasons">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
