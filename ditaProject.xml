@@ -22,10 +22,10 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Summer_Flowers-1681123571562" name="Summer Flowers">
+    <deliverable id="Summer_Flowers-1681124338328" name="Summer Flowers">
         <context idref="summer_flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="All_Flowers_from_all_seasons-1681122085243" name="All Flowers from all seasons">
         <context idref="flowers"/>
