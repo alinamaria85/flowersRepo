@@ -12,7 +12,9 @@
     <context id="autumn_flowers" name="Autumn Flowers ctxt">
         <input href="autumn_flowers.ditamap"/>
     </context>
-   
+    <context id="winter_flowers" name="Winter Flowers ctxt">
+        <input href="winter_flowers.ditamap"/>
+    </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
     <deliverable id="Spring_Flowers2-1680511321125" name="Spring Flowers2">
