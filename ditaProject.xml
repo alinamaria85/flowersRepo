@@ -47,9 +47,4 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="testDeliverable-spring-1681371096828" name="testDeliverable-spring">
-        <context idref="spring_flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
 </project>
