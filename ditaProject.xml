@@ -19,4 +19,9 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
+    <deliverable id="Spring_deliverable-1683722039511" name="Spring deliverable">
+        <context idref="spring_flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
