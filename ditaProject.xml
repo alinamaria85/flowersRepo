@@ -14,7 +14,7 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Autumn_deliverable-1683898873887" name="Autumn deliverable">
+    <deliverable id="Autumn_deliverable_2-1685023532712" name="Autumn deliverable 2">
         <context idref="autumn_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
