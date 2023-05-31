@@ -21,8 +21,8 @@
     </deliverable>
     <deliverable id="Spring_deliverable-1685515274819" name="Spring deliverable">
         <context idref="spring_flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="test_deliverable-1685349728291" name="test deliverable">
         <context idref="flowers"/>
