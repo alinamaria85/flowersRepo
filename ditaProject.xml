@@ -19,10 +19,10 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Spring_deliverable-1683722039511" name="Spring deliverable">
+    <deliverable id="Spring_deliverable-1685515123615" name="Spring deliverable">
         <context idref="spring_flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="test_deliverable-1685349728291" name="test deliverable">
         <context idref="flowers"/>
