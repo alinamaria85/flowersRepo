@@ -19,11 +19,6 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Spring_deliverable-1685515274819" name="Spring deliverable">
-        <context idref="spring_flowers"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="other-1685447680633" name="other">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
