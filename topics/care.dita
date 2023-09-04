@@ -14,7 +14,7 @@
             And above all, remember that many flower gardens fail because they just don't get enough
             of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
  <p>
-            <codeblock id="codeblock_tyj_qgh_ryb">&lt;note>
+            <codeblock id="codeblock_tyj_qgh_ryb" outputclass="language-xml">&lt;note>
   &lt;to>Tove&lt;/to>
   &lt;from>Jani&lt;/from>
   &lt;heading>Reminder&lt;/heading>
