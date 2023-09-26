@@ -7,12 +7,10 @@
     <body>
         <p>With just a little bit of care and preparation, any flower garden can be a vibrantly
             colored environment. Flowers can be selected for specific blooming seasons, colors and
-            shapes. Both annual and <xref keyref="perennial" format="dita">perennial</xref>
-            flower gardens can be planted depending on climate and specific needs.</p>
+                <image href="http://test-services.sync.ro/webdav-qa/test/Lorela/logo.svg"
+                id="image_ayw_qnk_xyb" scope="external"/>shapes. Both annual and <xref keyref="perennial"
+                format="dita">perennial</xref> flower gardens can be planted depending on climate
+            and specific needs.</p>
     </body>
-    <related-links>
-        <link
-            href="https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg?w=400&amp;h=300&amp;c=crop"
-            format="jpg" scope="external"/>
-    </related-links> 
+    
 </topic>
