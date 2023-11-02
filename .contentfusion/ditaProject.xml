@@ -6,7 +6,7 @@
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <deliverable id="Spring_deliverable-1698922359730" name="Spring deliverable">
         <context idref="EblEbbrtnDJTZUl"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
 </project>
