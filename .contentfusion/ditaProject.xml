@@ -3,4 +3,12 @@
     <context id="gVqAfUBIhrAiwcH" name="autumn">
         <input href="../autumn_flowers.ditamap"/>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-Flowers_WH-1727935267764" name="Flowers WH">
+        <context idref="gVqAfUBIhrAiwcH"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
