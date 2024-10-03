@@ -8,6 +8,7 @@
         <context idref="gVqAfUBIhrAiwcH"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
+            <param name="webhelp.publishing.template" path="cf://templates/Oxygen"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
