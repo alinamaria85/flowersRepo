@@ -9,4 +9,13 @@
     <context id="OfMDZRGQOOSvIEp" name="aaa">
         <input href="../flowers.ditamap"/>
     </context>
+    <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="d-Autumn_Flowers_PDF-1727949340623" name="Autumn Flowers PDF">
+        <context idref="WDXatywkDzkWEaT"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf">
+            <param name="pdf.publishing.template" path="templates/my template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
