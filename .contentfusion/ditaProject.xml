@@ -15,7 +15,7 @@
         <context idref="WDXatywkDzkWEaT"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
-            <param name="pdf.publishing.template" value="cf://templates/Aluminum"/>
+            <param name="pdf.publishing.template" path="templates/my%20template"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
