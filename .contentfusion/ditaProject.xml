@@ -3,4 +3,13 @@
     <context id="meBTuNyqgXxfAtM" name="all flowers">
         <input href="../flowers.ditamap"/>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-Flowers_WH-1737982844827" name="Flowers WH">
+        <context idref="meBTuNyqgXxfAtM"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
