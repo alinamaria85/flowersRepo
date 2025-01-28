@@ -1,0 +1,25 @@
+name: Test Logging Paths
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test-logging:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Log Environment Variables and Paths
+        run: |
+          echo "Home directory: $HOME"
+          echo "Working directory: $GITHUB_WORKSPACE"
+          echo "Temporary directory: $RUNNER_TEMP"
+          echo "PATH: $PATH"
+          echo "Current directory listing:"
+          ls -la
+          echo "Testing Masked Secrets"
+          echo "GitHub Token: ${{ secrets.GITHUB_TOKEN }}"
+          echo "Custom Secret: ${{ secrets.MY_SECRET }}"
