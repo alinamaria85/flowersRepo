@@ -1,4 +1,4 @@
-name: Test Logging Paths
+name: Log Repository Content
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  test-logging:
+  list-repo-content:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -18,8 +18,13 @@ jobs:
           echo "Working directory: $GITHUB_WORKSPACE"
           echo "Temporary directory: $RUNNER_TEMP"
           echo "PATH: $PATH"
-          echo "Current directory listing:"
-          ls -la
-          echo "Testing Masked Secrets"
-          echo "GitHub Token: ${{ secrets.GITHUB_TOKEN }}"
-          echo "Custom Secret: ${{ secrets.MY_SECRET }}"
+
+      - name: List Repository Content
+        run: |
+          echo "Listing repository content:"
+          ls -la $GITHUB_WORKSPACE
+
+      - name: List Nested Files (Optional)
+        run: |
+          echo "Detailed file structure (up to 2 levels):"
+          find $GITHUB_WORKSPACE -maxdepth 2
