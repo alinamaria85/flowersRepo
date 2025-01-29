@@ -1,4 +1,4 @@
-name: Log Repository Content
+name: Log Repository Full Paths
 
 on:
   push:
@@ -6,25 +6,20 @@ on:
       - main
 
 jobs:
-  list-repo-content:
+  log-repo-full-paths:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Log Environment Variables and Paths
+      - name: Log Full File Paths
+        env:
+          REPO_URL: https://github.com/${{ github.repository }}
         run: |
-          echo "Home directory: $HOME"
-          echo "Working directory: $GITHUB_WORKSPACE"
-          echo "Temporary directory: $RUNNER_TEMP"
-          echo "PATH: $PATH"
-
-      - name: List Repository Content
-        run: |
-          echo "Listing repository content:"
-          ls -la $GITHUB_WORKSPACE
-
-      - name: List Nested Files (Optional)
-        run: |
-          echo "Detailed file structure (up to 2 levels):"
-          find $GITHUB_WORKSPACE -maxdepth 2
+          echo "Listing files with full GitHub paths:"
+          find $GITHUB_WORKSPACE -type f | while read FILE; do
+            # Convert absolute file paths to relative paths
+            RELATIVE_PATH=$(realpath --relative-to=$GITHUB_WORKSPACE "$FILE")
+            # Output the full GitHub URL for each file
+            echo "$REPO_URL/$RELATIVE_PATH"
+          done
