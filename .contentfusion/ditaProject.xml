@@ -4,11 +4,20 @@
         <input href="../flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <publication id="pdf" transtype="pdf-css-html5"/>
     <deliverable id="d-Flowers_WH-1737982844827" name="Flowers WH">
         <context idref="meBTuNyqgXxfAtM"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
             <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
+    <deliverable id="d-Flowers_PDF-1738241206905" name="Flowers PDF">
+        <context idref="meBTuNyqgXxfAtM"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf">
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
