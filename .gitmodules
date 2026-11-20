@@ -1,0 +1,3 @@
+[submodule "garage"]
+    path = garage
+    url = https://github.com/alinamaria85/garage.git
